@@ -271,7 +271,7 @@ const SmartHealthCoach = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-white flex items-center gap-2">
-                  Smart Health Coach
+                  Smart Health Coach by KashNish Tech
                   <Sparkles size={20} className="text-yellow-300 animate-pulse" />
                 </h1>
                 <p className="text-cyan-100 text-sm flex items-center gap-2">
@@ -414,7 +414,7 @@ const SmartHealthCoach = () => {
             </button>
           </div>
           <p className="text-slate-500 text-xs mt-3 text-center">
-            Powered by Groq AI • Your health data is private and secure 🔒
+            Made by kamal • Your health data is private and secure 🔒
           </p>
         </div>
       </div>
